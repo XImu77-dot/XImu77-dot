@@ -24,7 +24,7 @@ Building digital experiences through code and creativity.
 
 ## 🚀 About Me
 
-- 🎓 Informatics Student at Universitas Bumigora
+- 🎓 Informatics Student 
 - 💻 Interested in Front-End Development
 - 🎨 Passionate about UI/UX Design
 - 🌱 Currently learning JavaScript and Web Development
